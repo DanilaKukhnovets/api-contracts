@@ -1,3 +1,3 @@
-module api-contracts
+module github.com/DanilaKukhnovets/api-contracts
 
 go 1.22
